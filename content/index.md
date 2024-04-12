@@ -1,8 +1,13 @@
 ---
 title: Echos of Da
 ---
-This will be a repo for Echos of Da campaign.
+##### Hello!
+
+This will be a site for Echos of Da campaign.
 New pages will be added as needed....
+
+### Image?
+
 
 [[Hebrew test]]
 
