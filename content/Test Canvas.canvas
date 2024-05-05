@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"ee7f156a04f27741","x":120,"y":-620,"width":400,"height":180,"type":"file","file":"Hebrew test.md"},
-		{"id":"ea1c724787b95751","x":-546,"y":-560,"width":250,"height":60,"type":"text","text":"This is a text box"},
-		{"id":"61dadfed44ca13b9","x":-520,"y":-500,"width":1082,"height":700,"type":"file","file":"Maps/Sword-Coast-Map.jpg"},
-		{"id":"bac903425885cfe4","x":-480,"y":-360,"width":400,"height":400,"type":"file","file":"Welcome.md"}
-	],
-	"edges":[]
-}
