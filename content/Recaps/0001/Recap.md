@@ -5,7 +5,7 @@ tags:
   - סיכום
   - מה_היה
 ---
-
+[[סיכום Recap | סיכום]]
 
 ![[Silver Marches.jpg]]
 
